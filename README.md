@@ -10,6 +10,11 @@ Abra o projeto C# e modifique a string de conexão nas propriedades do projeto A
 Execute o script "Script - Direto.sql", em seguida as triggers ("TRIIGERS.sql") na pasta de banco de dados.
 O sistema já pode ser depurado.
 
-*Aplicação rodando*
+*Aplicação rodando - Me desculpem pelo gif com baixa velocidade*
 
 ![ApplicationRunning](/Prints-Readme/ApplicationRunning.gif?raw=true "Application Running")
+
+
+*DER*
+
+![DER](/Prints-Readme/DER.png?raw=true "DER")
